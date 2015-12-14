@@ -1,0 +1,76 @@
+.wrapper{
+  margin-top: 20px;
+  padding: 5px 5px;
+  padding: 10px 10px;
+}
+
+.todoList{
+  margin-top: 10px;
+  padding-top: 8px;
+}
+
+.showData{
+  margin-top: 5px;
+  padding-left: 3px;
+  color: green;
+}
+
+.form-control{
+  height: auto;
+  padding: 5px 5px;
+}
+
+.form-control button {
+  margin-left: 4px;
+}
+
+.form-control input {
+  margin-left: 5px;
+  width: 500px;
+}
+
+h3 {
+  text-align: center;
+  color: #343434;
+}
+
+p{
+  margin-top: 5px;
+  margin-left: 5px;
+  padding: 3px 3px;
+  text-transform: uppercase;
+}
+
+button {
+  margin-left: 5px;
+}
+label {
+  width:100%;
+}
+
+
+.color-box{
+  margin: 5px 5px;
+  width: 200px;
+}
+
+.todolist-li {
+  list-style: none;
+  border: 1px black;
+  margin-top: 4px;
+  padding: 5px 5px;
+}
+
+.delete button {
+  margin-left: 10px;
+}
+
+.child-message h4{
+  width: 400px;
+  height: auto;
+  font-size: 8px;
+}
+
+.child-message-box{
+  display: inline;
+}
